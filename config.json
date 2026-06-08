@@ -1,0 +1,18 @@
+{
+  "_comment": "用户可自定义研究领域，AI 分析时会参考此设置生成更精准的标签",
+  "research_domain": "通用",
+  "domain_hint": "不限领域，根据论文内容自动识别研究方向",
+  "default_categories": [
+    "综述",
+    "方法论",
+    "实验研究",
+    "应用研究",
+    "理论分析"
+  ],
+  "tag_generation": {
+    "method_tags": true,
+    "domain_tags": true,
+    "task_tags": true,
+    "free_tags": true
+  }
+}

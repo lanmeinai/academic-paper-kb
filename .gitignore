@@ -1,0 +1,8 @@
+.env
+data/
+papers/
+inbox/
+vault/论文笔记/
+__pycache__/
+*.pyc
+.venv/
